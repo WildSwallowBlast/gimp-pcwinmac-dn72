@@ -1,4 +1,4 @@
-# 
+# Personnalisé GIMP outils pour Mac OS | Turbo GIMP outils pour PC Windows. Avec éditeur de shaders et kit de marque — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
